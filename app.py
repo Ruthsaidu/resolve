@@ -1,3 +1,7 @@
+import csv
+from flask import Flask, request, redirect, render_template
+
+app = Flask(__name__)
 def save_data(data):
     fieldnames = ['name', 'email', 'age']  # Add more fields here
 
