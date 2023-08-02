@@ -1,4 +1,3 @@
-from flask import Flask
 def save_data(data):
     fieldnames = ['name', 'email', 'age']  # Add more fields here
 
