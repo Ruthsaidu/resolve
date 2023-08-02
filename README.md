@@ -1,6 +1,5 @@
 - Python 3.6+
 - Flask
-- SQLAlchemy
 
 ## Installation
 
